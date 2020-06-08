@@ -1,0 +1,6 @@
+Williams,Mary,Y: Basic conference pack
+Nguyen,Vinh,,Y: Basic conference pack
+Kingsley,Margret: No Packs Required 
+Kline,Bob,Y,Y: Basic conference pack + Bonus conference pack
+Mitchell,Frank,Y: Basic conference pack
+Lowe,Elizabeth,Y,Y: Basic conference pack + Bonus conference pack
